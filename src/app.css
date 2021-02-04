@@ -1,0 +1,61 @@
+h1 {
+    color: rgb(0, 112, 210);
+}
+p {
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    color: rgb(62, 62, 60);
+}
+.app {
+    background-color: #fafaf9;
+    height: 100vh;
+    overflow: scroll;
+}
+.style-box{
+width: 900px;
+height: 302px;
+background: rgb(141, 97, 200);
+border-radius: 25px;
+margin-top: 15%;
+margin-left: 15%;
+}
+
+.heading-text{
+height: 39px;
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: bold;
+letter-spacing: 0px;
+padding-left: 5%;
+padding-top: 5%;
+position: relative;
+float:left;
+}
+
+.body-text{
+width: 630px;
+height: 138px;
+color: rgb(255, 255, 255);
+font-size: 16px;
+letter-spacing: 0px;
+padding-left: 5%;
+padding-top: 5%;
+padding-right: 5%;
+position: relative;
+float:left;
+}
+
+.left-pod{
+width: 12%;
+height: 90%;
+background: rgb(172, 139, 215);
+border-radius: 25px 1px 160px 1px;
+float:left;
+}
+
+.right-pod{
+float: right;
+width: 12%;
+height: 85%;
+background: rgb(172, 139, 215);
+border-radius: 160px 1px 30px 1px;    
+}
